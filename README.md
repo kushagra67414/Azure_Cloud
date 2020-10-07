@@ -10,3 +10,12 @@ for parameters understanding : [Click Here](https://maven.apache.org/archetype/m
 
 > -DinteractiveMode=false means  blank java project with all default options. (non-interactive)
 > -DinteractiveMode=true means rest of the options will be specified by the user.( interactive )
+
+## Day-2
+
+PuTTYgen is a key generator tool for creating pairs of public and private SSH keys.
+
+
+PuTTY will open a "network" between both machines. You'll get a console (like the shell) when you'll be connected. Really useful to administrate remote server from your computer.
+
+Usually, the port is not 80, but 22.
