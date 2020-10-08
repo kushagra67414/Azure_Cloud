@@ -13,9 +13,24 @@ for parameters understanding : [Click Here](https://maven.apache.org/archetype/m
 
 ## Day-2
 
-PuTTYgen is a key generator tool for creating pairs of public and private SSH keys.
+1. PuTTYgen is a key generator tool for creating pairs of public and private SSH keys.
 
 
 PuTTY will open a "network" between both machines. You'll get a console (like the shell) when you'll be connected. Really useful to administrate remote server from your computer.
 
 Usually, the port is not 80, but 22.
+
+2. Core Azure Services -Compute 
+  a. Virtual machine
+  b. Function app
+  c. App Service
+  d. Azure Kubernetes Services. 
+  
+ 3. Creating a virtual machine on azure.
+ hosting a webpage at server not localhost
+ 4. Networking :
+  a. Virtual networks
+  b. load balancers
+  c. application gateways : it do path way routing.
+  d. DnS Zones
+  e. CDN profile (content delivery network )
