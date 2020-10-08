@@ -56,3 +56,17 @@ Usually, the port is not 80, but 22.
   a. Cognitive Services 
   b. Bot services
   c. Machine Learning Studio
+  
+    
+4. Core Azure Services - Identity
+
+  * Azure Active Drectory :
+    *   => users and group
+
+5. Core Azure Services : Management
+
+  * a. log analytics
+  * b. Cost and biling
+  * c. automation  Account  
+  * d. metrics
+
