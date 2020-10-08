@@ -37,7 +37,7 @@ Usually, the port is not 80, but 22.
   
   
   ## Day-3
-  2. Core Azure Services - Storage
+1. Core Azure Services - Storage
     a. Blob
     b. file storage
     c. tables
@@ -45,4 +45,14 @@ Usually, the port is not 80, but 22.
     e. data lake storage
     f. Data Box
     
+2. Core Azure Services - databse + Analytics 
+  a. Sql databases
+  b. CosmosDB
+  c. Data Factory
+  d. event hubs
+  e. Data lake analytics
  
+3. Core Azure Services - AI and Machine Learning
+  a. Cognitive Services 
+  b. Bot services
+  c. Machine Learning Studio
