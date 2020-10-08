@@ -29,8 +29,20 @@ Usually, the port is not 80, but 22.
  3. Creating a virtual machine on azure.
  hosting a webpage at server not localhost
  4. Networking :
-  a. Virtual networks
+  a. Virtual networks 
   b. load balancers
   c. application gateways : it do path way routing.
   d. DnS Zones
   e. CDN profile (content delivery network )
+  
+  
+  ## Day-3
+  2. Core Azure Services - Storage
+    a. Blob
+    b. file storage
+    c. tables
+    d. Queues
+    e. data lake storage
+    f. Data Box
+    
+ 
