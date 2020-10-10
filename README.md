@@ -70,3 +70,6 @@ Usually, the port is not 80, but 22.
   * c. automation  Account  
   * d. metrics
 
+
+## Day-4
+hands-on: architecting an application on azure....
