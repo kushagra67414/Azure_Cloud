@@ -72,4 +72,5 @@ Usually, the port is not 80, but 22.
 
 
 ## Day-4
-hands-on: architecting an application on azure....
+hands-on: Creating a virtual machine and hosting a webpage on a server.
+
