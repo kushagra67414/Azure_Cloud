@@ -74,3 +74,27 @@ Usually, the port is not 80, but 22.
 ## Day-4
 hands-on: Creating a virtual machine and hosting a webpage on a server.
 
+## Day-5
+
+
+* A.	IP Adress [ 0 -255] =>  4 bytes : 198.162.1.4 – Example
+>  Start      0.0.0.0
+> 0.0.0.1
+> .
+> .
+> . 
+> End	255.255.255.255
+* B.	IPV4 Addressing [32 bits long]
+* C.	For Azure we  pick CIDR Notation ( Classless inter domain Routing Notation ).
+* D.	What is CIDR Notation.
+ > 198.162.0.0/16 = 8 * 2 ( 8 bits = 1 byte )
+ > 198.162.1.0/24 = 8 * 3
+
+* Azure Virtual Networks :
+> a.	Through connecting to the Vnet we use  > point to site VPN and site to site VPN 
+> b.	For direct connection to a network we use EXPRESSROUTE
+> NIC card provide’s IP address either public or private attached to virtual machine.
+> VPN ( Virtual Netowrk ) gateway .
+> NSG – Network Security Group.
+
+
