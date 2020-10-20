@@ -98,3 +98,15 @@ hands-on: Creating a virtual machine and hosting a webpage on a server.
 > NSG – Network Security Group.
 
 
+## Day-6
+Done a Minor project based on Cloud Azure
+
+* Create 2 Virtual Networks :  Vnet_ 1   And   Vnet_2 
+* Creating Two subnets in each Vnet.
+* Create Virtual Machine of Vnet-1 and Vnet -2
+* Assign Public IP to both VM In Vnet-1 and Vnet-2
+* Peer  Vnet-1 and Vnet2
+* Create a data disk and attach to VM-1
+* Log on to VM and initialize the disk 
+
+[click here](https://github.com/kushagra67414/Daily_report/blob/main/Minor_Project_Kushagra_Bansal.docx)
