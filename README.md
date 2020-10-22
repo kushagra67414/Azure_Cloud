@@ -110,3 +110,6 @@ Done a Minor project based on Cloud Azure
 * Log on to VM and initialize the disk 
 
 [click here](https://github.com/kushagra67414/Daily_report/blob/main/Minor_Project_Kushagra_Bansal.docx)
+
+## Day-7
+Hands on : Hosting a jenkin server using cloud
