@@ -113,3 +113,7 @@ Done a Minor project based on Cloud Azure
 
 ## Day-7
 Hands on : Hosting a jenkin server using cloud
+
+## Day-8
+
+  
