@@ -169,3 +169,10 @@ c. Semi- Structure data
 ![Screenshot (534)](https://user-images.githubusercontent.com/46487696/98439207-4aa11580-2116-11eb-8aaa-f9a418d169cc.png)
 
 
+=> **WHAT IS REPLICATION IN AZURE STORAGE**
+
+1. LRS => here 3+ copies of your data is stored in your same data center.
+2. ZRS => here 3+ copies of your data is stored in different datacenter but in same region.
+3. GRS => here 6+ copies of your data is stored in far away from primary datacenter.
+4. RA-GRS => here 6+ copies of your data is stored in far away from primary datacenter but, with the read access.
+
