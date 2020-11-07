@@ -116,4 +116,56 @@ Hands on : Hosting a jenkin server using cloud
 
 ## Day-8
 
+=> **AZURE STORAGE**
+
+a. Structure data
+  * Stored in a database table with rows and column, data having same field or properties, relies on keys to indicated relation among table.
   
+b. UnStructure data
+  * data which dont have any structure which just needed to be stored like videos, images, audio
+  
+c. Semi- Structure data
+  * it does not fit into the table , rows and column
+  * uses tag and keys to organize and provide a hierarchy for the data 
+
+=> **AZURE SQL DATABASE**
+
+* reliable, high-performance, secure database.
+* build data-driven applications and websites.
+
+![Screenshot (523)](https://user-images.githubusercontent.com/46487696/98438774-715d4d00-2112-11eb-9c5a-9809e1ed1cc9.png)
+
+=> **AZURE COSMO DB****
+
+![Screenshot (524)](https://user-images.githubusercontent.com/46487696/98438779-7c17e200-2112-11eb-939e-b28adb75c06b.png)
+
+
+=> **AN AZURE STORAGE ACCOUNT**
+
+* Processess high availabilty
+* Provides Security
+* Highly Scalable
+* Task Redundant
+* Is Highly durable
+
+=> **ADVANTAGE OF AZURE STORAGE**
+
+![Screenshot (525)](https://user-images.githubusercontent.com/46487696/98438783-8508b380-2112-11eb-87e3-3c80bdaa0bf1.png)
+
+
+=> **AZURE STORAGE ACCOUNT TYPE**
+
+* General Purpose Storage Client:
+
+1. BLOBs(Binary Large Object) => used to store audio, video, etc random data or used for backup.
+2. FILES => will having shared files or network  files.
+3. QUEUES => How are we processing data one by one stored in buffered data.
+4. TABLES => will have tabular data like structure data.
+
+![2](https://user-images.githubusercontent.com/46487696/98439150-d9616280-2115-11eb-8d8a-5544d62b3ce1.png)
+
+![Screenshot (533)](https://user-images.githubusercontent.com/46487696/98439202-42e17100-2116-11eb-83a9-f9969c2ca518.png)
+
+![Screenshot (534)](https://user-images.githubusercontent.com/46487696/98439207-4aa11580-2116-11eb-8aaa-f9a418d169cc.png)
+
+
