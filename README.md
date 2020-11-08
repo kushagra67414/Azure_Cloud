@@ -176,3 +176,20 @@ c. Semi- Structure data
 3. GRS => here 6+ copies of your data is stored in far away from primary datacenter.
 4. RA-GRS => here 6+ copies of your data is stored in far away from primary datacenter but, with the read access.
 
+
+## Types of Blob Storage
+
+![Screenshot (546)](https://user-images.githubusercontent.com/46487696/98483083-ae693280-222b-11eb-9498-9afcc340c083.png)
+
+## Storage tiers
+
+![Screenshot (548)](https://user-images.githubusercontent.com/46487696/98483102-c771e380-222b-11eb-8fd1-e4a7b0a94eae.png)
+
+## Encryption and Replication
+
+![Screenshot (549)](https://user-images.githubusercontent.com/46487696/98483129-f720eb80-222b-11eb-9bb0-1ea40a48b8fd.png)
+
+## Comparion of azure and on-premises storage
+
+![Screenshot (551)](https://user-images.githubusercontent.com/46487696/98483159-1586e700-222c-11eb-97e3-8439f035eac0.png)
+
