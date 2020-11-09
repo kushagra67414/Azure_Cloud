@@ -193,3 +193,15 @@ c. Semi- Structure data
 
 ![Screenshot (551)](https://user-images.githubusercontent.com/46487696/98483159-1586e700-222c-11eb-97e3-8439f035eac0.png)
 
+
+
+## Shared Access Signature (SAS)
+
+![Screenshot (558)](https://user-images.githubusercontent.com/46487696/98579191-47f41b00-22e4-11eb-8e75-d0cf2424539f.png)
+
+Lets see how it looks =>
+
+![Screenshot (559)](https://user-images.githubusercontent.com/46487696/98579419-a620fe00-22e4-11eb-8551-da1d43e52ae8.png)
+![Screenshot (560)](https://user-images.githubusercontent.com/46487696/98579421-a7522b00-22e4-11eb-812c-229caa324b7a.png)
+![Screenshot (561)](https://user-images.githubusercontent.com/46487696/98579425-a7eac180-22e4-11eb-8532-f2561b6f455d.png)
+
