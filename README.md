@@ -172,9 +172,23 @@ c. Semi- Structure data
 => **WHAT IS REPLICATION IN AZURE STORAGE**
 
 1. LRS => here 3+ copies of your data is stored in your same data center.
+
+![Screenshot (562)](https://user-images.githubusercontent.com/46487696/98649831-1029b980-235e-11eb-8275-90d601679c0e.png)
+![Screenshot (563)](https://user-images.githubusercontent.com/46487696/98649835-115ae680-235e-11eb-9b04-73e82018fced.png)
+
 2. ZRS => here 3+ copies of your data is stored in different datacenter but in same region.
+
+![Screenshot (566)](https://user-images.githubusercontent.com/46487696/98649858-1ae44e80-235e-11eb-9336-b8be2c1f6db4.png)
+![Screenshot (567)](https://user-images.githubusercontent.com/46487696/98649861-1b7ce500-235e-11eb-857c-983956cdf0de.png)
+
 3. GRS => here 6+ copies of your data is stored in far away from primary datacenter.
+
+![Screenshot (568)](https://user-images.githubusercontent.com/46487696/98649877-23d52000-235e-11eb-870c-9de0ad7548b0.png)
+
 4. RA-GRS => here 6+ copies of your data is stored in far away from primary datacenter but, with the read access.
+
+![Screenshot (570)](https://user-images.githubusercontent.com/46487696/98649905-2d5e8800-235e-11eb-9437-fc98a4930b01.png)
+![Screenshot (571)](https://user-images.githubusercontent.com/46487696/98649909-2f284b80-235e-11eb-816f-15d08a8f7337.png)
 
 
 ## Types of Blob Storage
