@@ -219,3 +219,15 @@ Lets see how it looks =>
 ![Screenshot (560)](https://user-images.githubusercontent.com/46487696/98579421-a7522b00-22e4-11eb-812c-229caa324b7a.png)
 ![Screenshot (561)](https://user-images.githubusercontent.com/46487696/98579425-a7eac180-22e4-11eb-8532-f2561b6f455d.png)
 
+
+
+
+## Azure Security 
+
+![Screenshot (572)](https://user-images.githubusercontent.com/46487696/98668851-77ebfe80-2376-11eb-8b58-503cc8b38c73.png)
+
+
+## Cloud is a shared responsibility =>
+
+![Screenshot (573)](https://user-images.githubusercontent.com/46487696/98668940-9d790800-2376-11eb-8255-c7e949a1eb28.png)
+
