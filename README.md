@@ -231,3 +231,11 @@ Lets see how it looks =>
 
 ![Screenshot (573)](https://user-images.githubusercontent.com/46487696/98668940-9d790800-2376-11eb-8255-c7e949a1eb28.png)
 
+
+## AZURE ACTIVE DIRECTORY =>
+* Single Sign on (SSO)
+* Application Management
+* Business to Business(B2B) identity Service
+* Business to Customer(B2C) identity Service
+* Device Management 
+
