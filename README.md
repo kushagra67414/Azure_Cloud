@@ -246,3 +246,7 @@ Lets see how it looks =>
 ![Screenshot (591)](https://user-images.githubusercontent.com/46487696/99181159-b147b400-2752-11eb-94a6-5fdb54957a00.png)
 ![Screenshot (592)](https://user-images.githubusercontent.com/46487696/99181161-b1e04a80-2752-11eb-8c94-5b1889feb1b3.png)
 
+## What is Azure Active Directory =>
+
+![Screenshot (593)](https://user-images.githubusercontent.com/46487696/99181267-611d2180-2753-11eb-96c3-7396b7734d1f.png)
+
