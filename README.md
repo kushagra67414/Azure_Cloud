@@ -231,3 +231,37 @@ Lets see how it looks =>
 
 ![Screenshot (573)](https://user-images.githubusercontent.com/46487696/98668940-9d790800-2376-11eb-8255-c7e949a1eb28.png)
 
+
+## AZURE ACTIVE DIRECTORY =>
+* Single Sign on (SSO)
+* Application Management
+* Business to Business(B2B) identity Service
+* Business to Customer(B2C) identity Service
+* Device Management 
+
+## Security Center => 
+
+![Screenshot (589)](https://user-images.githubusercontent.com/46487696/99181154-ad1b9680-2752-11eb-8d5c-1ce068852a38.png)
+![Screenshot (590)](https://user-images.githubusercontent.com/46487696/99181157-af7df080-2752-11eb-9aa4-4c0120085b18.png)
+![Screenshot (591)](https://user-images.githubusercontent.com/46487696/99181159-b147b400-2752-11eb-94a6-5fdb54957a00.png)
+![Screenshot (592)](https://user-images.githubusercontent.com/46487696/99181161-b1e04a80-2752-11eb-8c94-5b1889feb1b3.png)
+
+## What is Azure Active Directory =>
+
+![Screenshot (593)](https://user-images.githubusercontent.com/46487696/99181267-611d2180-2753-11eb-96c3-7396b7734d1f.png)
+
+## RBAC =>
+
+![Screenshot (594)](https://user-images.githubusercontent.com/46487696/99181277-81e57700-2753-11eb-95a1-b418ea8b53ae.png)
+
+## Encryption =>
+
+![Screenshot (595)](https://user-images.githubusercontent.com/46487696/99181309-a93c4400-2753-11eb-9650-593214a0cf80.png)
+![Screenshot (596)](https://user-images.githubusercontent.com/46487696/99181312-a9d4da80-2753-11eb-9d53-dc8a3fcba240.png)
+![Screenshot (597)](https://user-images.githubusercontent.com/46487696/99181315-aa6d7100-2753-11eb-82a9-20e7ae0d737d.png)
+
+## DDOS =>
+
+![Screenshot (598)](https://user-images.githubusercontent.com/46487696/99181324-c07b3180-2753-11eb-85c7-d2a41b42c8a4.png)
+![Screenshot (599)](https://user-images.githubusercontent.com/46487696/99181326-c244f500-2753-11eb-834e-d4bb348e76cd.png)
+
