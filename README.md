@@ -250,3 +250,18 @@ Lets see how it looks =>
 
 ![Screenshot (593)](https://user-images.githubusercontent.com/46487696/99181267-611d2180-2753-11eb-96c3-7396b7734d1f.png)
 
+## RBAC =>
+
+![Screenshot (594)](https://user-images.githubusercontent.com/46487696/99181277-81e57700-2753-11eb-95a1-b418ea8b53ae.png)
+
+## Encryption =>
+
+![Screenshot (595)](https://user-images.githubusercontent.com/46487696/99181309-a93c4400-2753-11eb-9650-593214a0cf80.png)
+![Screenshot (596)](https://user-images.githubusercontent.com/46487696/99181312-a9d4da80-2753-11eb-9d53-dc8a3fcba240.png)
+![Screenshot (597)](https://user-images.githubusercontent.com/46487696/99181315-aa6d7100-2753-11eb-82a9-20e7ae0d737d.png)
+
+## DDOS =>
+
+![Screenshot (598)](https://user-images.githubusercontent.com/46487696/99181324-c07b3180-2753-11eb-85c7-d2a41b42c8a4.png)
+![Screenshot (599)](https://user-images.githubusercontent.com/46487696/99181326-c244f500-2753-11eb-834e-d4bb348e76cd.png)
+
