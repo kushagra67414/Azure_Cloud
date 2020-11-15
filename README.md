@@ -239,3 +239,10 @@ Lets see how it looks =>
 * Business to Customer(B2C) identity Service
 * Device Management 
 
+## Security Center => 
+
+![Screenshot (589)](https://user-images.githubusercontent.com/46487696/99181154-ad1b9680-2752-11eb-8d5c-1ce068852a38.png)
+![Screenshot (590)](https://user-images.githubusercontent.com/46487696/99181157-af7df080-2752-11eb-9aa4-4c0120085b18.png)
+![Screenshot (591)](https://user-images.githubusercontent.com/46487696/99181159-b147b400-2752-11eb-94a6-5fdb54957a00.png)
+![Screenshot (592)](https://user-images.githubusercontent.com/46487696/99181161-b1e04a80-2752-11eb-8c94-5b1889feb1b3.png)
+
