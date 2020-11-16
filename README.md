@@ -265,3 +265,8 @@ Lets see how it looks =>
 ![Screenshot (598)](https://user-images.githubusercontent.com/46487696/99181324-c07b3180-2753-11eb-85c7-d2a41b42c8a4.png)
 ![Screenshot (599)](https://user-images.githubusercontent.com/46487696/99181326-c244f500-2753-11eb-834e-d4bb348e76cd.png)
 
+
+## MONITOR AZURE INFRA
+
+![Screenshot (611)](https://user-images.githubusercontent.com/46487696/99298561-e85fb780-286f-11eb-9e18-52f855be73d5.png)
+
