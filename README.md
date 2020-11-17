@@ -270,3 +270,18 @@ Lets see how it looks =>
 
 ![Screenshot (611)](https://user-images.githubusercontent.com/46487696/99298561-e85fb780-286f-11eb-9e18-52f855be73d5.png)
 
+
+## ROLE BASED ACCESS CONTROL (RBAC) AND AZURE POLICY
+
+![Screenshot (611)](https://user-images.githubusercontent.com/46487696/99403522-90c55880-2910-11eb-8b6f-2fa02f2048e7.png)
+
+![Screenshot (612)](https://user-images.githubusercontent.com/46487696/99403532-928f1c00-2910-11eb-8f0f-21bf1982febe.png)
+
+![Screenshot (613)](https://user-images.githubusercontent.com/46487696/99403537-93c04900-2910-11eb-81cf-4bc05e6b8f5a.png)
+
+![Screenshot (652)](https://user-images.githubusercontent.com/46487696/99403651-b6526200-2910-11eb-84b3-38b0f71466d3.png)
+
+![Screenshot (653)](https://user-images.githubusercontent.com/46487696/99403656-b7838f00-2910-11eb-94aa-6f7ce9121a73.png)
+
+## ENTERPRISE GOVERNANCE MANAGEMENT
+
