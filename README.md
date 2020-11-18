@@ -265,3 +265,54 @@ Lets see how it looks =>
 ![Screenshot (598)](https://user-images.githubusercontent.com/46487696/99181324-c07b3180-2753-11eb-85c7-d2a41b42c8a4.png)
 ![Screenshot (599)](https://user-images.githubusercontent.com/46487696/99181326-c244f500-2753-11eb-834e-d4bb348e76cd.png)
 
+
+## MONITOR AZURE INFRA
+
+![Screenshot (611)](https://user-images.githubusercontent.com/46487696/99298561-e85fb780-286f-11eb-9e18-52f855be73d5.png)
+
+
+## ROLE BASED ACCESS CONTROL (RBAC) AND AZURE POLICY
+
+![Screenshot (611)](https://user-images.githubusercontent.com/46487696/99403522-90c55880-2910-11eb-8b6f-2fa02f2048e7.png)
+
+![Screenshot (612)](https://user-images.githubusercontent.com/46487696/99403532-928f1c00-2910-11eb-8f0f-21bf1982febe.png)
+
+![Screenshot (613)](https://user-images.githubusercontent.com/46487696/99403537-93c04900-2910-11eb-81cf-4bc05e6b8f5a.png)
+
+![Screenshot (652)](https://user-images.githubusercontent.com/46487696/99403651-b6526200-2910-11eb-84b3-38b0f71466d3.png)
+
+![Screenshot (653)](https://user-images.githubusercontent.com/46487696/99403656-b7838f00-2910-11eb-94aa-6f7ce9121a73.png)
+
+
+
+## ENTERPRISE GOVERNANCE MANAGEMENT
+
+![Screenshot (654)](https://user-images.githubusercontent.com/46487696/99420291-105c2300-2923-11eb-9d58-7c9636936242.png)
+
+
+## AZURE BLUEPRINTS 
+
+![Screenshot (655)](https://user-images.githubusercontent.com/46487696/99504179-29a5b380-29a5-11eb-8466-b32bab783e50.png)
+![Screenshot (656)](https://user-images.githubusercontent.com/46487696/99504185-2ca0a400-29a5-11eb-9a7e-896ced5929ed.png)
+![Screenshot (657)](https://user-images.githubusercontent.com/46487696/99504196-332f1b80-29a5-11eb-9fe1-3a6f3ba4e860.png)
+![Screenshot (658)](https://user-images.githubusercontent.com/46487696/99504198-34604880-29a5-11eb-86ab-2e3daa4b9b0d.png)
+![Screenshot (659)](https://user-images.githubusercontent.com/46487696/99504199-34f8df00-29a5-11eb-97eb-0f33c8387b9c.png)
+![Screenshot (660)](https://user-images.githubusercontent.com/46487696/99504203-35917580-29a5-11eb-801e-03f5dc4701d4.png)
+
+
+
+## AZURE MONITOR 
+
+
+![Screenshot (661)](https://user-images.githubusercontent.com/46487696/99504305-5d80d900-29a5-11eb-9683-d81b8bc9d222.png)
+![Screenshot (662)](https://user-images.githubusercontent.com/46487696/99504308-5f4a9c80-29a5-11eb-9527-02193bb279f5.png)
+![Screenshot (663)](https://user-images.githubusercontent.com/46487696/99504309-5fe33300-29a5-11eb-987c-d933d2648f4a.png)
+![Screenshot (664)](https://user-images.githubusercontent.com/46487696/99504609-c5cfba80-29a5-11eb-9467-07d7f36ee07f.png)
+![Screenshot (665)](https://user-images.githubusercontent.com/46487696/99504314-61146000-29a5-11eb-8f17-cf7b9daa37b6.png)
+
+
+## AZURE HEALTH
+
+![Screenshot (667)](https://user-images.githubusercontent.com/46487696/99504472-99b43980-29a5-11eb-8a0a-9bd69d3781c7.png)
+
+
