@@ -10,5 +10,10 @@ Go to azure Active Directory > create a tenant
 
 Give the domain and organisation as you like and create a tenant.
 
-![Screenshot (747)](https://user-images.githubusercontent.com/46487696/100540840-ecbfa380-3265-11eb-99e8-8522ff8e7989.png)
+
+Now. Go to the top right and click on "Switch Directory" to access your tenant. 
 ![Screenshot (774)](https://user-images.githubusercontent.com/46487696/100540842-ee896700-3265-11eb-838f-86f6554a073f.png)
+
+
+
+![Screenshot (747)](https://user-images.githubusercontent.com/46487696/100540840-ecbfa380-3265-11eb-99e8-8522ff8e7989.png)
